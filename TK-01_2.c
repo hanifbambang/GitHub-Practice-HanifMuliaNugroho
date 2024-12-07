@@ -17,6 +17,7 @@ int main()
         {
             b++;
         }
+        
         if (number == 3)
         {
             c++;
